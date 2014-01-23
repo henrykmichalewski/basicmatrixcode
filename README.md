@@ -1,7 +1,7 @@
 basicmatrixcode
 ===============
 
-Basic Matric Code - a part of a take-home exam in Information Theory
+Basic Matrix Code - a part of a take-home exam in Information Theory
 January/February 2014, University of Warsaw - Damian Niwiński, Henryk Michalewski
 
 The task is to decode files
